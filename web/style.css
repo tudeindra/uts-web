@@ -1,0 +1,18 @@
+/*
+    Background color : #660066
+    Title color : #ffffff
+    Text color : #ffffff
+    Text Dark color : #ffffff
+    Table Heading Color : #ffffff
+    Table Alternate color : #ffffff 
+*/
+
+body {
+    background-color:#660066;
+    color: #ffffff;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 15px;
+    marging:0;
+}
